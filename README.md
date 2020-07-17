@@ -3,7 +3,7 @@
 Author: Fission Labs India Pvt Ltd<br>
 Date: June 24, 2020
 
-The R Package Risk Assessment app is an interactive web application providing a front end for the collection of metrics for R packages via RiskMetrics package including visualizations and comparison metrics.
+The R Package Risk Assessment app is an interactive web application providing a front end for the collection of metrics for R packages via `riskmetric` package including visualizations and comparison metrics.
 
 ### Shiny App Installation
 The App is portable without code modifications and can be pulled from GitHub and run in the local environment by the users. User needs to copy the following files/folders to run the application:<br>
